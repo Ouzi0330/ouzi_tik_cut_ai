@@ -4,7 +4,7 @@ from ouzi_tik_cut_ai import OuziTikCutAI
 
 def update_console_code():
     # URL del archivo interactivo en GitHub
-    url = "https://raw.githubusercontent.com/tu_usuario_ouzi/ouzi_tik_cut_ai/main/interactive_console.py"
+    url = "https://raw.githubusercontent.com/Ouzi0330/ouzi_tik_cut_ai/refs/heads/main/interactive_console.py"
     local_path = "interactive_console.py"
     
     # Descargar el archivo actualizado desde GitHub
@@ -16,7 +16,7 @@ def update_console_code():
 
 def load_new_functions():
     # URL del archivo de nuevas funciones en GitHub
-    url = "https://raw.githubusercontent.com/tu_usuario_ouzi/ouzi_tik_cut_ai/main/new_functions.py"
+    url = "https://raw.githubusercontent.com/Ouzi0330/ouzi_tik_cut_ai/refs/heads/main/new_functions.py"
     local_path = "new_functions.py"
     
     try:
